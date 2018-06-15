@@ -28,11 +28,12 @@ class Screen {
         const number = document.querySelector("#sentence #number");
         const sentence = document.querySelector("#sentence #text");
         number.innerHTML = this.singleMessageData[0];
-        number.innerHTML = this.singleMessageData[1].text.original;
+        sentence.innerHTML = this.singleMessageData[1].text.original;
     }
 
     static displayRightSide() {
         console.log(this.singleMessageData[1]);
+        document.querySelector("#analysis").innerHTML = "";
         Screen.loopThroughJson(this.singleMessageData[1], "");
     }
 
@@ -44,7 +45,9 @@ class Screen {
                 } else {
                     console.log("temp", temp, "typeof", obj[property]);
                     let paragraph = document.createElement("p");
-                    paragraph.textContent = `${temp}: ${obj[property]}`;
+                    paragraph.innerHTML =
+                        `<span class="property">${temp}:</span>
+                         <span class="value">${obj[property]}</span>`;
                     let block = document.querySelector("#analysis");
                     block.appendChild(paragraph);
                 }

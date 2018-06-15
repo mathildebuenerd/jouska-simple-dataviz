@@ -8,6 +8,8 @@ body {
     height: 100vh;
     position: fixed;
     margin: 0;
+    padding: 50px;
+    box-sizing: border-box;
 }
 
 #sentence {
@@ -22,6 +24,11 @@ body {
 
 p {
     margin: 0;
+}
+
+#analysis p {
+    display: flex;
+    justify-content: space-between;
 }
 
 
