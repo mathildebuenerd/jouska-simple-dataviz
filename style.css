@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+
+}
+
+#sentence, #analysis {
+    width: 50vw;
+    height: 100vh;
+    position: fixed;
+    margin: 0;
+}
+
+#sentence {
+    border-right: 1px solid lightblue;
+}
+
+#analysis {
+    left: 50vw;
+    top: 0;
+    overflow-y: scroll;
+}
+
+p {
+    margin: 0;
+}
+
+
