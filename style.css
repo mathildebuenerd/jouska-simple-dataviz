@@ -47,7 +47,7 @@ body {
     top: 0;
     overflow-y: scroll;
     font-family: "Roboto Mono", monospace;
-    font-size: 0.9em;
+    font-size: 1em;
 }
 
 p {
@@ -69,5 +69,3 @@ p {
     font-weight: bold;
     text-align: right;
 }
-
-

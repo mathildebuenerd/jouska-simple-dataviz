@@ -1928,5 +1928,1053 @@
         "language": "fr"
       }
     }
+  },
+  "1682": {
+    "text": {
+      "original": "Ben Daniel c'est mort pour mardi du coup...",
+      "en": "Ben Daniel is dead for Tuesday suddenly ..."
+    },
+    "date": {
+      "day": 6,
+      "month": 8,
+      "year": 50216,
+      "hour": 20,
+      "minutes": 31,
+      "seconds": 7
+    },
+    "analysis": {
+      "sentiment": {
+        "score": -3,
+        "comparative": -0.375,
+        "vote": "negative",
+        "tokens": [
+          "ben",
+          "daniel",
+          "is",
+          "dead",
+          "for",
+          "tuesday",
+          "suddenly",
+          ""
+        ],
+        "words": [
+          "dead"
+        ],
+        "positive": [],
+        "negative": [
+          "dead"
+        ],
+        "negation": false,
+        "language": "en"
+      },
+      "darktriad": {
+        "machiavellianism": {
+          "score": 0.000770914,
+          "words": {
+            "positive": [
+              "ben"
+            ],
+            "negative": []
+          }
+        },
+        "narcissism": {
+          "score": 0.003216779,
+          "words": {
+            "positive": [
+              "daniel",
+              "ben"
+            ],
+            "negative": []
+          }
+        },
+        "psychopathy": {
+          "score": 0.000336552,
+          "words": {
+            "positive": [
+              "ben"
+            ],
+            "negative": []
+          }
+        },
+        "triad": {
+          "score": 0.001000774,
+          "words": {
+            "positive": [
+              "ben"
+            ],
+            "negative": []
+          }
+        }
+      },
+      "bigfive": {
+        "O": {
+          "score": 0.09051,
+          "words": {
+            "positive": [
+              "dead"
+            ],
+            "negative": []
+          }
+        },
+        "C": {
+          "score": -0.055489,
+          "words": {
+            "positive": [],
+            "negative": [
+              "dead"
+            ]
+          }
+        },
+        "E": {
+          "score": -0.041217,
+          "words": {
+            "positive": [],
+            "negative": [
+              "suddenly"
+            ]
+          }
+        },
+        "A": {
+          "score": -0.047057,
+          "words": {
+            "positive": [],
+            "negative": [
+              "dead"
+            ]
+          }
+        },
+        "N": {
+          "score": -0.054885,
+          "words": {
+            "positive": [],
+            "negative": [
+              "dead"
+            ]
+          }
+        }
+      },
+      "gender": {
+        "GENDER": -0.344568124
+      },
+      "temporalOrientation": {
+        "PAST": -0.69666663,
+        "PRESENT": 0.322149246,
+        "FUTURE": -0.120111256
+      },
+      "sentimentFr": {
+        "score": -3,
+        "comparative": -0.375,
+        "vote": "negative",
+        "tokens": [
+          "ben",
+          "daniel",
+          "c'est",
+          "mort",
+          "pour",
+          "mardi",
+          "du",
+          "coup"
+        ],
+        "words": [
+          "mort"
+        ],
+        "positive": [],
+        "negative": [
+          "mort"
+        ],
+        "negation": false,
+        "language": "fr"
+      }
+    }
+  },
+  "125": {
+    "text": {
+      "original": "Non ! Manque de temps et d'argent à l'époque !\nMais j'avais repéré cette ville qui avait l'air tres belle.",
+      "en": "No ! Lack of time and money at the time! But I spotted this city that looked very beautiful."
+    },
+    "date": {
+      "day": 15,
+      "month": 5,
+      "year": 49551,
+      "hour": 23,
+      "minutes": 18,
+      "seconds": 10
+    },
+    "analysis": {
+      "sentiment": [
+        {
+          "score": -4,
+          "comparative": -2,
+          "vote": "negative",
+          "tokens": [
+            "no",
+            ""
+          ],
+          "words": [
+            "no"
+          ],
+          "positive": [],
+          "negative": [
+            "no"
+          ],
+          "negation": true,
+          "language": "en"
+        },
+        {
+          "score": -2,
+          "comparative": -0.5,
+          "vote": "negative",
+          "tokens": [
+            "",
+            "lack",
+            "of",
+            "time"
+          ],
+          "words": [
+            "lack"
+          ],
+          "positive": [],
+          "negative": [
+            "lack"
+          ],
+          "negation": false,
+          "language": "en"
+        },
+        {
+          "score": 0,
+          "comparative": 0,
+          "vote": "neutral",
+          "tokens": [
+            "",
+            "and",
+            "money",
+            "at",
+            "the",
+            "time"
+          ],
+          "words": [],
+          "positive": [],
+          "negative": [],
+          "negation": false,
+          "language": "en"
+        }
+      ],
+      "darktriad": {
+        "machiavellianism": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "narcissism": {
+          "score": 0.002779482,
+          "words": {
+            "positive": [
+              "no",
+              "beautiful",
+              "at",
+              "spotted"
+            ],
+            "negative": [
+              "money"
+            ]
+          }
+        },
+        "psychopathy": {
+          "score": 0.000401061,
+          "words": {
+            "positive": [
+              "spotted"
+            ],
+            "negative": []
+          }
+        },
+        "triad": {
+          "score": 0.00042498,
+          "words": {
+            "positive": [
+              "spotted",
+              "at"
+            ],
+            "negative": []
+          }
+        }
+      },
+      "bigfive": {
+        "O": {
+          "score": 0.039461,
+          "words": {
+            "positive": [
+              "."
+            ],
+            "negative": [
+              "!"
+            ]
+          }
+        },
+        "C": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "E": {
+          "score": 0.009047000000000006,
+          "words": {
+            "positive": [
+              "!"
+            ],
+            "negative": [
+              "."
+            ]
+          }
+        },
+        "A": {
+          "score": 0.039074,
+          "words": {
+            "positive": [
+              "beautiful"
+            ],
+            "negative": []
+          }
+        },
+        "N": {
+          "score": 0.033265,
+          "words": {
+            "positive": [
+              "!"
+            ],
+            "negative": []
+          }
+        }
+      },
+      "gender": {
+        "GENDER": -2.82270066
+      },
+      "temporalOrientation": {
+        "PAST": -0.394993172,
+        "PRESENT": 0.063550285,
+        "FUTURE": -0.879849777
+      },
+      "sentimentFr": [
+        {
+          "score": -4,
+          "comparative": -2,
+          "vote": "negative",
+          "tokens": [
+            "non",
+            ""
+          ],
+          "words": [
+            "non"
+          ],
+          "positive": [],
+          "negative": [
+            "non"
+          ],
+          "negation": true,
+          "language": "fr"
+        },
+        {
+          "score": -2,
+          "comparative": -0.5,
+          "vote": "negative",
+          "tokens": [
+            "",
+            "manque",
+            "de",
+            "temps"
+          ],
+          "words": [
+            "manque"
+          ],
+          "positive": [],
+          "negative": [
+            "manque"
+          ],
+          "negation": false,
+          "language": "fr"
+        },
+        {
+          "score": 0,
+          "comparative": 0,
+          "vote": "neutral",
+          "tokens": [
+            "",
+            "et",
+            "d'argent",
+            "à",
+            "l'époque",
+            ""
+          ],
+          "words": [],
+          "positive": [],
+          "negative": [],
+          "negation": false,
+          "language": "fr"
+        }
+      ]
+    }
+  },
+  "978": {
+    "text": {
+      "original": "Et trop triste! T'es blessé où ? Tu peux pas jouer pendant combien de temps ?",
+      "en": "And too sad! Where are you hurt? Can not you play for how long?"
+    },
+    "date": {
+      "day": 7,
+      "month": 3,
+      "year": 49869,
+      "hour": 6,
+      "minutes": 53,
+      "seconds": 44
+    },
+    "analysis": {
+      "sentiment": [
+        {
+          "score": -2,
+          "comparative": -0.6666666666666666,
+          "vote": "negative",
+          "tokens": [
+            "and",
+            "too",
+            "sad"
+          ],
+          "words": [
+            "sad"
+          ],
+          "positive": [],
+          "negative": [
+            "sad"
+          ],
+          "negation": false,
+          "language": "en"
+        },
+        {
+          "score": -2,
+          "comparative": -0.4,
+          "vote": "negative",
+          "tokens": [
+            "",
+            "where",
+            "are",
+            "you",
+            "hurt"
+          ],
+          "words": [
+            "hurt"
+          ],
+          "positive": [],
+          "negative": [
+            "hurt"
+          ],
+          "negation": false,
+          "language": "en"
+        }
+      ],
+      "darktriad": {
+        "machiavellianism": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "narcissism": {
+          "score": -0.001207792,
+          "words": {
+            "positive": [],
+            "negative": [
+              "long"
+            ]
+          }
+        },
+        "psychopathy": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "triad": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        }
+      },
+      "bigfive": {
+        "O": {
+          "score": 0.033690000000000005,
+          "words": {
+            "positive": [
+              "where"
+            ],
+            "negative": [
+              "!"
+            ]
+          }
+        },
+        "C": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "E": {
+          "score": 0.068387,
+          "words": {
+            "positive": [
+              "!"
+            ],
+            "negative": []
+          }
+        },
+        "A": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "N": {
+          "score": -0.011601,
+          "words": {
+            "positive": [
+              "!"
+            ],
+            "negative": [
+              "hurt"
+            ]
+          }
+        }
+      },
+      "gender": {
+        "GENDER": 6.45798516
+      },
+      "temporalOrientation": {
+        "PAST": -0.709080494,
+        "PRESENT": 0.100521145,
+        "FUTURE": -0.393205922
+      },
+      "sentimentFr": [
+        {
+          "score": -2,
+          "comparative": -0.6666666666666666,
+          "vote": "negative",
+          "tokens": [
+            "et",
+            "trop",
+            "triste"
+          ],
+          "words": [
+            "triste"
+          ],
+          "positive": [],
+          "negative": [
+            "triste"
+          ],
+          "negation": false,
+          "language": "fr"
+        },
+        {
+          "score": 0,
+          "comparative": 0,
+          "vote": "neutral",
+          "tokens": [
+            "",
+            "t'es",
+            "blessé",
+            "où",
+            ""
+          ],
+          "words": [],
+          "positive": [],
+          "negative": [],
+          "negation": false,
+          "language": "fr"
+        }
+      ]
+    }
+  },
+  "981": {
+    "text": {
+      "original": ":) Tu t'es fait ça comment ?",
+      "en": ":) How did you do that?"
+    },
+    "date": {
+      "day": 27,
+      "month": 3,
+      "year": 49869,
+      "hour": 1,
+      "minutes": 7,
+      "seconds": 44
+    },
+    "analysis": {
+      "sentiment": {
+        "score": 4,
+        "comparative": 0.6666666666666666,
+        "vote": "positive",
+        "tokens": [
+          "",
+          "how",
+          "did",
+          "you",
+          "do",
+          "that?"
+        ],
+        "words": [],
+        "positive": [
+          ":)"
+        ],
+        "negative": [],
+        "negation": false,
+        "language": "en"
+      },
+      "darktriad": {
+        "machiavellianism": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "narcissism": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "psychopathy": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "triad": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        }
+      },
+      "bigfive": {
+        "O": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "C": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "E": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "A": {
+          "score": 0.042709,
+          "words": {
+            "positive": [
+              ":)"
+            ],
+            "negative": []
+          }
+        },
+        "N": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        }
+      },
+      "gender": {
+        "GENDER": 3.879516255
+      },
+      "temporalOrientation": {
+        "PAST": 0.196291421,
+        "PRESENT": -0.133315631,
+        "FUTURE": -1.231930324
+      },
+      "sentimentFr": {
+        "score": 4,
+        "comparative": 0.5714285714285714,
+        "vote": "positive",
+        "tokens": [
+          "",
+          "tu",
+          "t'es",
+          "fait",
+          "ça",
+          "comment",
+          "?"
+        ],
+        "words": [],
+        "positive": [
+          ":)"
+        ],
+        "negative": [],
+        "negation": false,
+        "language": "fr"
+      }
+    }
+  },
+  "1247": {
+    "text": {
+      "original": ":/ dommage ça m’aurait bien plus ",
+      "en": ": / pity it would have me much more"
+    },
+    "date": {
+      "day": 11,
+      "month": 10,
+      "year": 49926,
+      "hour": 23,
+      "minutes": 5,
+      "seconds": 24
+    },
+    "analysis": {
+      "sentiment": {
+        "score": -4,
+        "comparative": -0.5,
+        "vote": "negative",
+        "tokens": [
+          "",
+          "pity",
+          "it",
+          "would",
+          "have",
+          "me",
+          "much",
+          "more"
+        ],
+        "words": [
+          "pity"
+        ],
+        "positive": [],
+        "negative": [
+          "pity",
+          ":/"
+        ],
+        "negation": false,
+        "language": "en"
+      },
+      "darktriad": {
+        "machiavellianism": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "narcissism": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "psychopathy": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "triad": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        }
+      },
+      "bigfive": {
+        "O": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "C": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "E": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "A": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "N": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        }
+      },
+      "gender": {
+        "GENDER": 0.439380162
+      },
+      "temporalOrientation": {
+        "PAST": -0.695223968,
+        "PRESENT": 0.215989998,
+        "FUTURE": -0.543390503
+      },
+      "sentimentFr": {
+        "score": 0,
+        "comparative": 0,
+        "vote": "neutral",
+        "tokens": [
+          "",
+          "dommage",
+          "ça",
+          "m’aurait",
+          "bien",
+          "plus",
+          ""
+        ],
+        "words": [
+          "plus",
+          "bien",
+          "dommage"
+        ],
+        "positive": [
+          "plus",
+          "bien"
+        ],
+        "negative": [
+          "dommage",
+          ":/"
+        ],
+        "negation": false,
+        "language": "fr"
+      }
+    }
+  },
+  "1359": {
+    "text": {
+      "original": "Dac :) pour ma part je l’ai perdu de vue du coup je ne sais pas si j’y vais :/ je n’ai aucune idée de là où il habite ",
+      "en": "Dac :) for my part I lost sight of the coup I do not know if I go: / I have no idea where he lives"
+    },
+    "date": {
+      "day": 3,
+      "month": 0,
+      "year": 50025,
+      "hour": 8,
+      "minutes": 59,
+      "seconds": 0
+    },
+    "analysis": {
+      "sentiment": {
+        "score": -5,
+        "comparative": -0.20833333333333334,
+        "vote": "negative",
+        "tokens": [
+          "dac",
+          "for",
+          "my",
+          "part",
+          "i",
+          "lost",
+          "sight",
+          "of",
+          "the",
+          "coup",
+          "i",
+          "do",
+          "not",
+          "know",
+          "if",
+          "i",
+          "go",
+          "i",
+          "have",
+          "no",
+          "idea",
+          "where",
+          "he",
+          "lives"
+        ],
+        "words": [
+          "no",
+          "lost"
+        ],
+        "positive": [
+          ":)"
+        ],
+        "negative": [
+          "no",
+          "lost",
+          ":/"
+        ],
+        "negation": true,
+        "language": "en"
+      },
+      "darktriad": {
+        "machiavellianism": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "narcissism": {
+          "score": 0.00020702500000000003,
+          "words": {
+            "positive": [
+              "part",
+              "no"
+            ],
+            "negative": [
+              "sight",
+              "coup"
+            ]
+          }
+        },
+        "psychopathy": {
+          "score": 0.000203843,
+          "words": {
+            "positive": [
+              "sight"
+            ],
+            "negative": []
+          }
+        },
+        "triad": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        }
+      },
+      "bigfive": {
+        "O": {
+          "score": 0.077699,
+          "words": {
+            "positive": [
+              "where"
+            ],
+            "negative": []
+          }
+        },
+        "C": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "E": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        },
+        "A": {
+          "score": 0.042709,
+          "words": {
+            "positive": [
+              ":)"
+            ],
+            "negative": []
+          }
+        },
+        "N": {
+          "score": 0,
+          "words": {
+            "positive": [],
+            "negative": []
+          }
+        }
+      },
+      "gender": {
+        "GENDER": 0.53037737
+      },
+      "temporalOrientation": {
+        "PAST": -0.1827449,
+        "PRESENT": -0.596853487,
+        "FUTURE": -0.533749776
+      },
+      "sentimentFr": {
+        "score": -4,
+        "comparative": -0.14285714285714285,
+        "vote": "negative",
+        "tokens": [
+          "dac",
+          "pour",
+          "ma",
+          "part",
+          "je",
+          "l’ai",
+          "perdu",
+          "de",
+          "vue",
+          "du",
+          "coup",
+          "je",
+          "ne",
+          "sais",
+          "pas",
+          "si",
+          "j’y",
+          "vais",
+          "je",
+          "n’ai",
+          "aucune",
+          "idée",
+          "de",
+          "là",
+          "où",
+          "il",
+          "habite",
+          ""
+        ],
+        "words": [
+          "aucune",
+          "perdu"
+        ],
+        "positive": [
+          ":)"
+        ],
+        "negative": [
+          "aucune",
+          "perdu",
+          ":/"
+        ],
+        "negation": true,
+        "language": "fr"
+      }
+    }
   }
 }
